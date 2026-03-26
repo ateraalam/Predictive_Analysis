@@ -6,7 +6,7 @@
 
 ## What This Project Is About
 
-This project tackles a classic (and genuinely tricky) problem: **can we look at past sales data and reliably predict what's going to sell in the future?**
+This project tackles a classic problem: **can we look at past sales data and reliably predict what's going to sell in the future?**
 
 The short answer is yes — with the right data wrangling and the right models. This notebook walks through the entire journey, from messy raw data all the way to trained predictive models, step by step.
 
