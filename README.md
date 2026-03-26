@@ -8,7 +8,7 @@
 
 This project tackles a classic problem: **can we look at past sales data and reliably predict what's going to sell in the future?**
 
-The short answer is yes — with the right data wrangling and the right models. This notebook walks through the entire journey, from messy raw data all the way to trained predictive models, step by step.
+The short answer is yes. With the right data wrangling and the right models. This notebook walks through the entire journey, from messy raw data all the way to trained predictive models, step by step.
 
 It's built around the [Kaggle "Predict Future Sales"](https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales) challenge, which provides daily sales history from a large Russian software company (1C Company). The goal is to predict the total sales for every product in every store for the following month.
 
@@ -18,7 +18,7 @@ It's built around the [Kaggle "Predict Future Sales"](https://www.kaggle.com/com
 
 Sales forecasting isn't just an academic exercise. Businesses live and die by their ability to anticipate demand. Get it right and you can optimize inventory, plan marketing spend, and allocate resources intelligently. Get it wrong and you're either sitting on unsold stock or scrambling to fill orders you didn't see coming.
 
-This project explores how data mining and machine learning techniques can be applied to real-world sales data to build models that actually generalize — not just memorize the past, but learn patterns that hold up going forward.
+This project explores how data mining and machine learning techniques can be applied to real-world sales data to build models that actually generalize; not just memorize the past, but learn patterns that hold up going forward.
 
 ---
 
