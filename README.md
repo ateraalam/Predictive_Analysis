@@ -1,4 +1,4 @@
-# Predicting Future Sales Patterns — A Data Mining Project
+# Predicting Future Sales Patterns: A Data Mining Project
 
 > Exploring how machine learning can forecast purchase quantities using real e-commerce transaction data.
 
